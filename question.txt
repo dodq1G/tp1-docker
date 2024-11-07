@@ -1,0 +1,8 @@
+1. Utilité de Docker Compose : 
+Simplifie le démarrage et la gestion des conteneurs, surtout pour plusieurs services.
+
+2. Différences Dockerfile vs docker-compose.yml : 
+Dockerfile définit comment créer une image. Docker Compose orchestre plusieurs services.
+
+3. Avantages de Docker Compose : 
+Permet de déployer et gérer plusieurs services facilement, utile pour le travail en équipe et la production.
